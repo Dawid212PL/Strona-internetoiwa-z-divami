@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+#naglowek {
+background-color: black;
+height: 70px;
+width: 100%;
+color: white;
+
+
+}
+#lewa {
+background-color: black;
+height: 700px;
+width: 11%;
+color: white;
+float: left;
+
+
+}
+#srodek {
+background-color: green;
+height: 700px;
+width: 80%;
+color: white;
+float: left;
+
+}
+#prawa {
+background-color: black;
+height: 700px;
+width: 9%;
+color: white;
+float: left;
+
+}
+#stopka {
+background-color: black;
+height: 50px;
+width: 100%;
+color: white;
+clear:both;
+
+}
+</style>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+<div id="all">
+<div id="naglowek">
+<br />|Strona<a href="index.html"><img src="domek.png"/></a>domowa|
+</div>
+<div id="lewa">
+<center><h2><hr />
+<a href="strona1.html">1</a>
+<br /><hr />
+<a href="strona2.html">2</a>
+<br /><hr />
+<a href="strona3.html">3</a>
+<br /><hr />
+<a href="strona4.html">4</a>
+<br /><hr />
+<a href="strona5.html">5</a>
+<br /><hr />
+</h2></center>
+</div>
+<div id="srodek">
+<center><h1>Witaj na stronie domowej!</h1></center>
+</div>
+<div id="prawa">
+</div>
+<div id="stopka">
+</div>
+</div>
+</body>
+</html>
